@@ -1,0 +1,7 @@
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\bin\Debug\hw7_mateen.exe.config
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\bin\Debug\hw7_mateen.exe
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\bin\Debug\hw7_mateen.pdb
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\obj\Debug\hw7_mateen.csprojAssemblyReference.cache
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\obj\Debug\hw7_mateen.csproj.CoreCompileInputs.cache
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\obj\Debug\hw7_mateen.exe
+E:\PROJECTS\CSharp\Mustafa\hw7\hw7_mateen\obj\Debug\hw7_mateen.pdb
